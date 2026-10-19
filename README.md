@@ -56,7 +56,7 @@ FileShift/
 ## 🚀 Installation & First Run (Open Source)
 
 ### Option A: Install via DMG Installer (Recommended)
-1. Download **`FileShift-1.0.0.dmg`** from [Releases](https://github.com/your-username/FileShift/releases).
+1. Download **`FileShift-1.0.0.dmg`** from [Releases](https://github.com/Prasannakulal/FileShift/releases/latest).
 2. Open the DMG and drag **FileShift** into your **Applications** folder.
 3. **First-time launch (bypassing Gatekeeper)**:
    - Because FileShift is free & open-source without an Apple Developer ID, macOS Gatekeeper may show a warning on first run.
@@ -72,7 +72,7 @@ FileShift/
 
 ### Option B: Build from Source
 ```bash
-git clone https://github.com/your-username/FileShift.git
+git clone https://github.com/Prasannakulal/FileShift.git
 cd FileShift
 ./build.sh
 open .build/FileShift.app
