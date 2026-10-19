@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Swift / SPM
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# Distribution artifacts (upload to GitHub Releases instead)
+dist/
+*.dmg
+*.zip
